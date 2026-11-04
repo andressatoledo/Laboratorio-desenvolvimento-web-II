@@ -2,6 +2,12 @@
 
 App Flutter (Dart) + SQLite para motoristas autônomos controlarem viagens, abastecimentos e despesas.
 
+## Integrantes
+
+- Andressa Stéphane Toledo da Silva
+- Carlos Eduardo da Silva Magalhães
+
+
 ## Como rodar
 1. `flutter create kml` e entre na pasta.
 2. Substitua a pasta `lib/` e o `pubspec.yaml` pelos deste projeto (apague `test/widget_test.dart`, que referencia o app de exemplo).
